@@ -67,7 +67,6 @@
     color: var(--color-primary);
     margin-top: 1rem;
 }
-
 @media (max-width:600px) {
     .login .card{
         width: 90%;
